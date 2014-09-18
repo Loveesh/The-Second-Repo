@@ -1,4 +1,4 @@
 The-Second-Repo
 ===============
 
-My second repo on github still learning
+This is the second repository on github. Still understanding the concept and the nitie gritties.
